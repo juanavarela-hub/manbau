@@ -1,0 +1,629 @@
+{
+  "version": "0.4",
+  "title": "Manbau Footer — Dark Brand Bar",
+  "type": "footer",
+  "content": [
+    {
+      "id": "0000001e",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#26241f",
+        "padding": {
+          "unit": "px",
+          "top": "90",
+          "right": "64",
+          "bottom": "64",
+          "left": "64",
+          "isLinked": false
+        },
+        "border_border": "solid",
+        "border_color": "rgba(235,227,210,.14)",
+        "border_width": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "1",
+          "left": "0"
+        },
+        "css_classes": "d1-footer-section"
+      },
+      "elements": [
+        {
+          "id": "00000004",
+          "elType": "column",
+          "settings": {
+            "_column_size": 30,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "00000001",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "● MANBAU",
+                "header_size": "div",
+                "title_color": "#ebe3d2",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "700",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.14,
+                  "sizes": []
+                },
+                "css_classes": "d1-footer-brand-logo"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000002",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "A European boutique advisory partner focused on critical transitions. Independent. Senior. Operator-led.",
+                "text_color": "rgba(235,227,210,.62)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.7
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000003",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<a href=\"mailto:admin@manbau.com\" style=\"color:#5a9d92;text-decoration:none;font-size:13px;font-family:'Manrope',sans-serif;letter-spacing:0.06em;\">admin@manbau.com</a>",
+                "text_color": "#8a857a",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "0000000d",
+          "elType": "column",
+          "settings": {
+            "_column_size": 23,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "00000005",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Practices",
+                "header_size": "h5",
+                "title_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.22,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000006",
+              "elType": "widget",
+              "widgetType": "icon-list",
+              "settings": {
+                "icon_list": [
+                  {
+                    "_id": "00000007",
+                    "text": "Turnarounds",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000008",
+                    "text": "Restructuring",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000009",
+                    "text": "Integrations",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "0000000a",
+                    "text": "Acquisitions",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "0000000b",
+                    "text": "Growth",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "0000000c",
+                    "text": "Enhancements",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  }
+                ],
+                "layout": "vertical",
+                "text_color": "rgba(235,227,210,.72)",
+                "icon_color": "transparent",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "space_between": {
+                  "unit": "px",
+                  "size": 14
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00000015",
+          "elType": "column",
+          "settings": {
+            "_column_size": 23,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "0000000e",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Firm",
+                "header_size": "h5",
+                "title_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.22,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000000f",
+              "elType": "widget",
+              "widgetType": "icon-list",
+              "settings": {
+                "icon_list": [
+                  {
+                    "_id": "00000010",
+                    "text": "About",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000011",
+                    "text": "Methodology",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000012",
+                    "text": "Sectors",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000013",
+                    "text": "Insights",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000014",
+                    "text": "Careers",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  }
+                ],
+                "layout": "vertical",
+                "text_color": "rgba(235,227,210,.72)",
+                "icon_color": "transparent",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "space_between": {
+                  "unit": "px",
+                  "size": 14
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "0000001d",
+          "elType": "column",
+          "settings": {
+            "_column_size": 24,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "00000016",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Contact",
+                "header_size": "h5",
+                "title_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.22,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000017",
+              "elType": "widget",
+              "widgetType": "icon-list",
+              "settings": {
+                "icon_list": [
+                  {
+                    "_id": "00000018",
+                    "text": "admin@manbau.com",
+                    "link": {
+                      "url": "mailto:admin@manbau.com"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000019",
+                    "text": "Madrid · ES",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "0000001a",
+                    "text": "Lisbon · PT",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "0000001b",
+                    "text": "Zürich · CH",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "0000001c",
+                    "text": "LinkedIn ↗",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  }
+                ],
+                "layout": "vertical",
+                "text_color": "rgba(235,227,210,.72)",
+                "icon_color": "transparent",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "space_between": {
+                  "unit": "px",
+                  "size": 14
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000026",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#26241f",
+        "padding": {
+          "unit": "px",
+          "top": "32",
+          "right": "64",
+          "bottom": "40",
+          "left": "64",
+          "isLinked": false
+        },
+        "css_classes": "d1-footer-bottom-section"
+      },
+      "elements": [
+        {
+          "id": "00000020",
+          "elType": "column",
+          "settings": {
+            "_column_size": 60,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "0000001f",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "© 2026 Manbau Consulting &amp; Advisory, S.L. All rights reserved.",
+                "text_color": "rgba(235,227,210,.5)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00000025",
+          "elType": "column",
+          "settings": {
+            "_column_size": 40,
+            "_inline_size": null,
+            "content_position": "right"
+          },
+          "elements": [
+            {
+              "id": "00000021",
+              "elType": "widget",
+              "widgetType": "icon-list",
+              "settings": {
+                "icon_list": [
+                  {
+                    "_id": "00000022",
+                    "text": "Legal notice",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000023",
+                    "text": "Privacy",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000024",
+                    "text": "Cookies",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  }
+                ],
+                "layout": "vertical",
+                "text_color": "rgba(235,227,210,.5)",
+                "icon_color": "transparent",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "space_between": {
+                  "unit": "px",
+                  "size": 14
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "custom_css": "\n@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;1,9..144,300&family=Manrope:wght@200;300;400;500;600;700;800&family=Inter:wght@300;400;500;600&display=swap');\n*{box-sizing:border-box;}\n/* ══ FOOTER ══════════════════════════════════════════════════ */\n.d1-footer-section .elementor-icon-list-icon,\n.d1-footer-bottom-section .elementor-icon-list-icon{display:none!important;}\n.d1-footer-section .elementor-icon-list-item,\n.d1-footer-bottom-section .elementor-icon-list-item{padding-left:0!important;}\n.d1-footer-section .elementor-icon-list-text a{\n  color:rgba(235,227,210,.72);text-decoration:none;\n  font-size:14px;transition:color .2s;}\n.d1-footer-section .elementor-icon-list-text a:hover{color:#ebe3d2;}\n.d1-footer-section h5.elementor-heading-title,\n.d1-footer-section .elementor-heading-title[class*=\"h5\"]{color:#5a9d92!important;}\n.d1-footer-brand-logo{font-size:17px;letter-spacing:0.14em;color:#ebe3d2;}\n.d1-footer-bottom-section .elementor-icon-list-items{\n  display:flex;flex-direction:row;gap:20px;}\n.d1-footer-bottom-section .elementor-icon-list-text a{\n  color:rgba(235,227,210,.5);text-decoration:none;font-size:12px;\n  transition:color .2s;}\n.d1-footer-bottom-section .elementor-icon-list-text a:hover{color:#ebe3d2;}\n"
+  }
+}
