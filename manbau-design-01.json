@@ -1,0 +1,3918 @@
+{
+  "version": "0.4",
+  "title": "Manbau Design-01 — Light Bento Editorial",
+  "type": "page",
+  "content": [
+    {
+      "id": "00000005",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "transparent",
+        "padding": {
+          "unit": "px",
+          "top": "52",
+          "right": "52",
+          "bottom": "0",
+          "left": "52",
+          "isLinked": false
+        },
+        "position": "absolute",
+        "z_index": 20,
+        "css_classes": "d1-pillnav-section"
+      },
+      "elements": [
+        {
+          "id": "00000002",
+          "elType": "column",
+          "settings": {
+            "_column_size": 70,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "00000001",
+              "elType": "widget",
+              "widgetType": "nav-menu",
+              "settings": {
+                "menu": 0,
+                "layout": "horizontal",
+                "pointer": "none",
+                "item_spacing": {
+                  "unit": "px",
+                  "size": 6
+                },
+                "text_color": "#1a1916",
+                "text_color_hover": "#f4f0ea",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.02,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00000004",
+          "elType": "column",
+          "settings": {
+            "_column_size": 30,
+            "_inline_size": null,
+            "content_position": "middle"
+          },
+          "elements": [
+            {
+              "id": "00000003",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "CONTACT",
+                "align": "right",
+                "size": "md",
+                "button_text_color": "#f4f0ea",
+                "background_color": "#1a1916",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1"
+                },
+                "border_color": "#1a1916",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "999",
+                  "right": "999",
+                  "bottom": "999",
+                  "left": "999"
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.06,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "28",
+                  "bottom": "16",
+                  "left": "28"
+                },
+                "css_classes": "d1-contact-pill"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0000000b",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "full_width",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#f4f0ea",
+        "padding": {
+          "unit": "px",
+          "top": "24",
+          "right": "24",
+          "bottom": "0",
+          "left": "24",
+          "isLinked": false
+        },
+        "css_classes": "d1-hero-section"
+      },
+      "elements": [
+        {
+          "id": "0000000a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "00000009",
+              "elType": "widget",
+              "widgetType": "slides",
+              "settings": {
+                "slides": [
+                  {
+                    "_id": "00000006",
+                    "heading": "<small class=\"d1-ey\">CONSULTING &amp; ADVISORY</small>We engineer\n<em>resilience at the core.</em>",
+                    "description": "Boutique partner for corporations, SMEs, and private equity firms navigating critical transitions.",
+                    "button_text": "Engage with us →",
+                    "button_link": {
+                      "url": "#"
+                    },
+                    "background_color": "#26241f",
+                    "background_image": {
+                      "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=2000&q=80",
+                      "id": ""
+                    },
+                    "background_size": "cover",
+                    "background_position": "center center",
+                    "background_overlay_color": "rgba(15,13,10,0.55)",
+                    "content_color": "light",
+                    "heading_color": "#f4f0ea",
+                    "description_color": "rgba(244,240,234,.9)",
+                    "button_background_color": "#f4f0ea",
+                    "button_text_color": "#1a1916",
+                    "button_border_color": "#f4f0ea"
+                  },
+                  {
+                    "_id": "00000007",
+                    "heading": "<small class=\"d1-ey\">CRITICAL TRANSITIONS</small>Triage. Transform.\n<em>Elevate. Monitor.</em>",
+                    "description": "A repeatable methodology applied to turnarounds, restructurings, integrations and growth.",
+                    "button_text": "Engage with us →",
+                    "button_link": {
+                      "url": "#"
+                    },
+                    "background_color": "#26241f",
+                    "background_image": {
+                      "url": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=2000&q=80",
+                      "id": ""
+                    },
+                    "background_size": "cover",
+                    "background_position": "center center",
+                    "background_overlay_color": "rgba(15,13,10,0.55)",
+                    "content_color": "light",
+                    "heading_color": "#f4f0ea",
+                    "description_color": "rgba(244,240,234,.9)",
+                    "button_background_color": "#f4f0ea",
+                    "button_text_color": "#1a1916",
+                    "button_border_color": "#f4f0ea"
+                  },
+                  {
+                    "_id": "00000008",
+                    "heading": "<small class=\"d1-ey\">EUROPEAN BOUTIQUE</small>Where investment thesis\n<em>becomes reality.</em>",
+                    "description": "Operators alongside the deal team — from diligence to day 100 and beyond.",
+                    "button_text": "Engage with us →",
+                    "button_link": {
+                      "url": "#"
+                    },
+                    "background_color": "#26241f",
+                    "background_image": {
+                      "url": "https://images.unsplash.com/photo-1448630360428-65456885c650?auto=format&fit=crop&w=2000&q=80",
+                      "id": ""
+                    },
+                    "background_size": "cover",
+                    "background_position": "center center",
+                    "background_overlay_color": "rgba(15,13,10,0.55)",
+                    "content_color": "light",
+                    "heading_color": "#f4f0ea",
+                    "description_color": "rgba(244,240,234,.9)",
+                    "button_background_color": "#f4f0ea",
+                    "button_text_color": "#1a1916",
+                    "button_border_color": "#f4f0ea"
+                  }
+                ],
+                "effect": "fade",
+                "autoplay": "yes",
+                "pause_on_hover": "yes",
+                "autoplay_speed": 6500,
+                "transition_speed": 1600,
+                "infinite": "yes",
+                "show_arrows": "no",
+                "show_dots": "yes",
+                "slides_per_view": 1,
+                "slides_height": {
+                  "unit": "px",
+                  "size": 832
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Fraunces",
+                "title_typography_font_weight": "300",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 96,
+                  "sizes": []
+                },
+                "title_typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.025,
+                  "sizes": []
+                },
+                "title_typography_line_height": {
+                  "unit": "em",
+                  "size": 0.95
+                },
+                "description_typography_typography": "custom",
+                "description_typography_font_family": "Inter",
+                "description_typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "description_typography_line_height": {
+                  "unit": "em",
+                  "size": 1.6
+                },
+                "button_typography_typography": "custom",
+                "button_typography_font_family": "Manrope",
+                "button_typography_font_weight": "500",
+                "button_typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "button_typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.06,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0000001f",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#f4f0ea",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "64",
+          "bottom": "140",
+          "left": "64",
+          "isLinked": false
+        },
+        "css_classes": "d1-intro-section"
+      },
+      "elements": [
+        {
+          "id": "00000019",
+          "elType": "column",
+          "settings": {
+            "_column_size": 58,
+            "_inline_size": null,
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "22",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "0000000c",
+              "elType": "section",
+              "settings": {
+                "layout": "boxed",
+                "is_inner": "true",
+                "padding": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "22",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "column_gap": "custom",
+                "gap": {
+                  "unit": "px",
+                  "size": 18
+                }
+              },
+              "elements": [
+                {
+                  "id": "0000000e",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 33,
+                    "_inline_size": null,
+                    "css_classes": "d1-stat-pill"
+                  },
+                  "elements": [
+                    {
+                      "id": "0000000d",
+                      "elType": "widget",
+                      "widgetType": "counter",
+                      "settings": {
+                        "starting_number": 0,
+                        "ending_number": 4.2,
+                        "prefix": "€",
+                        "suffix": "bn",
+                        "duration": 2400,
+                        "title": "Transactions advised",
+                        "title_color": "#6b665d",
+                        "number_color": "#1a1916",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Fraunces",
+                        "typography_font_weight": "300",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 52,
+                          "sizes": []
+                        },
+                        "typography_letter_spacing": {
+                          "unit": "em",
+                          "size": -0.03,
+                          "sizes": []
+                        },
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Manrope",
+                        "title_typography_font_weight": "500",
+                        "title_typography_font_size": {
+                          "unit": "px",
+                          "size": 11,
+                          "sizes": []
+                        },
+                        "title_typography_letter_spacing": {
+                          "unit": "em",
+                          "size": 0.18,
+                          "sizes": []
+                        },
+                        "title_typography_text_transform": "uppercase"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "00000010",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 33,
+                    "_inline_size": null,
+                    "css_classes": "d1-stat-pill"
+                  },
+                  "elements": [
+                    {
+                      "id": "0000000f",
+                      "elType": "widget",
+                      "widgetType": "counter",
+                      "settings": {
+                        "starting_number": 0,
+                        "ending_number": 60,
+                        "prefix": "",
+                        "suffix": "+",
+                        "duration": 2400,
+                        "title": "Engagements delivered",
+                        "title_color": "#6b665d",
+                        "number_color": "#1a1916",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Fraunces",
+                        "typography_font_weight": "300",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 52,
+                          "sizes": []
+                        },
+                        "typography_letter_spacing": {
+                          "unit": "em",
+                          "size": -0.03,
+                          "sizes": []
+                        },
+                        "title_typography_typography": "custom",
+                        "title_typography_font_family": "Manrope",
+                        "title_typography_font_weight": "500",
+                        "title_typography_font_size": {
+                          "unit": "px",
+                          "size": 11,
+                          "sizes": []
+                        },
+                        "title_typography_letter_spacing": {
+                          "unit": "em",
+                          "size": 0.18,
+                          "sizes": []
+                        },
+                        "title_typography_text_transform": "uppercase"
+                      },
+                      "elements": []
+                    }
+                  ]
+                },
+                {
+                  "id": "00000013",
+                  "elType": "column",
+                  "settings": {
+                    "_column_size": 34,
+                    "_inline_size": null,
+                    "css_classes": "d1-thumb-card"
+                  },
+                  "elements": [
+                    {
+                      "id": "00000011",
+                      "elType": "widget",
+                      "widgetType": "image",
+                      "settings": {
+                        "image": {
+                          "url": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80",
+                          "id": ""
+                        },
+                        "image_size": "full",
+                        "align": "center",
+                        "caption_source": "none"
+                      },
+                      "elements": []
+                    },
+                    {
+                      "id": "00000012",
+                      "elType": "widget",
+                      "widgetType": "text-editor",
+                      "settings": {
+                        "editor": "<span class=\"d1-thumb-tag\">04 · CASE FILM</span><br><span class=\"d1-thumb-title\">Inside our war room</span>",
+                        "text_color": "#f4f0ea",
+                        "align": "left",
+                        "typography_typography": "custom",
+                        "typography_font_family": "Manrope",
+                        "typography_font_size": {
+                          "unit": "px",
+                          "size": 15,
+                          "sizes": []
+                        },
+                        "typography_font_weight": "500",
+                        "typography_line_height": {
+                          "unit": "em",
+                          "size": 1.65
+                        },
+                        "css_classes": "d1-thumb-overlay"
+                      },
+                      "elements": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "00000014",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {
+                "style": "solid",
+                "color": "#1f5e57",
+                "weight": {
+                  "unit": "px",
+                  "size": 1
+                },
+                "width": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "align": "left",
+                "gap": {
+                  "unit": "px",
+                  "size": 0
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000015",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "The Firm",
+                "header_size": "div",
+                "title_color": "#1f5e57",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.22,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "0",
+                  "bottom": "18",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "css_classes": "d1-eyebrow"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000016",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "We engineer <em>resilience</em> at the core.",
+                "header_size": "h2",
+                "title_color": "#1a1916",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 92,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.03,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 0.96
+                },
+                "css_classes": "d1-intro-headline"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000017",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "Engage with us →",
+                "align": "left",
+                "size": "md",
+                "button_text_color": "#f4f0ea",
+                "background_color": "#1a1916",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1"
+                },
+                "border_color": "#1a1916",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "999",
+                  "right": "999",
+                  "bottom": "999",
+                  "left": "999"
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.06,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "28",
+                  "bottom": "16",
+                  "left": "28"
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000018",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>Manbau is a European boutique advisory partner founded by senior operators. We engage with leaders navigating critical transitions — turning the moments that decide a business's next decade into durable advantage.</p><p style=\"margin-top:12px\">The partners who sell the work are the same partners you find in the war room on day one. Independent. Senior. Operator‑led.</p>",
+                "text_color": "#6b665d",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "32",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "0000001e",
+          "elType": "column",
+          "settings": {
+            "_column_size": 42,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_image": {
+              "url": "https://images.unsplash.com/photo-1448630360428-65456885c650?auto=format&fit=crop&w=1400&q=80",
+              "id": ""
+            },
+            "background_size": "cover",
+            "background_position": "center center",
+            "background_overlay": "classic",
+            "background_overlay_color": "rgba(15,13,10,0.5)",
+            "min_height": {
+              "unit": "px",
+              "size": 580
+            },
+            "padding": {
+              "unit": "px",
+              "top": "24",
+              "right": "24",
+              "bottom": "24",
+              "left": "24",
+              "isLinked": false
+            },
+            "css_classes": "d1-aside-col"
+          },
+          "elements": [
+            {
+              "id": "0000001a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<span style=\"font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.14em;text-transform:uppercase;color:#5a9d92\">02 · GEOGRAPHIC REACH</span>",
+                "text_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "css_classes": "d1-aside-tag"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000001b",
+              "elType": "widget",
+              "widgetType": "counter",
+              "settings": {
+                "starting_number": 0,
+                "ending_number": 14,
+                "prefix": "",
+                "suffix": "",
+                "duration": 2400,
+                "title": "Countries · 25 yrs of senior experience",
+                "title_color": "#6b665d",
+                "number_color": "#1a1916",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 52,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.03,
+                  "sizes": []
+                },
+                "title_typography_typography": "custom",
+                "title_typography_font_family": "Manrope",
+                "title_typography_font_weight": "500",
+                "title_typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "title_typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.18,
+                  "sizes": []
+                },
+                "title_typography_text_transform": "uppercase",
+                "css_classes": "d1-aside-stat"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000001c",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "join the war room",
+                "header_size": "h6",
+                "title_color": "#f4f0ea",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "italic",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 22,
+                  "sizes": []
+                },
+                "css_classes": "d1-aside-cta"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000001d",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<span class=\"d1-aside-cta-sub\">&amp; start the conversation</span>",
+                "text_color": "rgba(244,240,234,.72)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "css_classes": "d1-aside-cta-sub"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000026",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#ebe6dd",
+        "padding": {
+          "unit": "px",
+          "top": "140",
+          "right": "64",
+          "bottom": "72",
+          "left": "64",
+          "isLinked": false
+        },
+        "column_gap": "wider"
+      },
+      "elements": [
+        {
+          "id": "00000023",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "00000020",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {
+                "style": "solid",
+                "color": "#1f5e57",
+                "weight": {
+                  "unit": "px",
+                  "size": 1
+                },
+                "width": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "align": "left",
+                "gap": {
+                  "unit": "px",
+                  "size": 0
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000021",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Practices",
+                "header_size": "div",
+                "title_color": "#1f5e57",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.22,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "0",
+                  "bottom": "18",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "css_classes": "d1-eyebrow"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000022",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Six disciplines,<br><em>one operating logic.</em>",
+                "header_size": "h2",
+                "title_color": "#1a1916",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 72,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.025,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00000025",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null,
+            "content_position": "bottom"
+          },
+          "elements": [
+            {
+              "id": "00000024",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "We move between advisory and execution as the engagement demands. Each practice is led by a senior partner with operating experience — usually decades of it, often under pressure.",
+                "text_color": "#6b665d",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.7
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000036",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#ebe6dd",
+        "column_gap": "custom",
+        "gap": {
+          "unit": "px",
+          "size": 22
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "64",
+          "bottom": "22",
+          "left": "64",
+          "isLinked": false
+        },
+        "css_classes": "d1-svc-row"
+      },
+      "elements": [
+        {
+          "id": "0000002b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_image": {
+              "url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1400&q=80",
+              "id": ""
+            },
+            "background_size": "cover",
+            "background_position": "center center",
+            "background_overlay": "classic",
+            "background_overlay_color": "rgba(15,13,10,0.6)",
+            "min_height": {
+              "unit": "px",
+              "size": 480
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "css_classes": "d1-svc-col"
+          },
+          "elements": [
+            {
+              "id": "00000027",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>01 · DISCIPLINE</p>",
+                "text_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "css_classes": "d1-svc-tag"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000028",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Turnarounds",
+                "header_size": "h3",
+                "title_color": "#f4f0ea",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.022,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                },
+                "css_classes": "d1-svc-title"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000029",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "We intervene when stability is at risk — diagnosing critical failures and restoring performance under pressure. Risk control reinstated through disciplined triage and decisive execution.",
+                "text_color": "rgba(244,240,234,.82)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.6
+                },
+                "css_classes": "d1-svc-desc"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000002a",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "→",
+                "align": "right",
+                "size": "md",
+                "button_text_color": "#f4f0ea",
+                "background_color": "transparent",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1"
+                },
+                "border_color": "rgba(244,240,234,.28)",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "50",
+                  "right": "50",
+                  "bottom": "50",
+                  "left": "50"
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.06,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "28",
+                  "bottom": "16",
+                  "left": "28"
+                },
+                "css_classes": "d1-svc-arrow"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00000030",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_image": {
+              "url": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1400&q=80",
+              "id": ""
+            },
+            "background_size": "cover",
+            "background_position": "center center",
+            "background_overlay": "classic",
+            "background_overlay_color": "rgba(15,13,10,0.6)",
+            "min_height": {
+              "unit": "px",
+              "size": 480
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "css_classes": "d1-svc-col"
+          },
+          "elements": [
+            {
+              "id": "0000002c",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>02 · DISCIPLINE</p>",
+                "text_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "css_classes": "d1-svc-tag"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000002d",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Restructuring",
+                "header_size": "h3",
+                "title_color": "#f4f0ea",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.022,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                },
+                "css_classes": "d1-svc-title"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000002e",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "We architect solutions for complexity — realigning capital, governance and operations. From legal entities to leadership models, we engineer resilience at the core.",
+                "text_color": "rgba(244,240,234,.82)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.6
+                },
+                "css_classes": "d1-svc-desc"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000002f",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "→",
+                "align": "right",
+                "size": "md",
+                "button_text_color": "#f4f0ea",
+                "background_color": "transparent",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1"
+                },
+                "border_color": "rgba(244,240,234,.28)",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "50",
+                  "right": "50",
+                  "bottom": "50",
+                  "left": "50"
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.06,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "28",
+                  "bottom": "16",
+                  "left": "28"
+                },
+                "css_classes": "d1-svc-arrow"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00000035",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_image": {
+              "url": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1400&q=80",
+              "id": ""
+            },
+            "background_size": "cover",
+            "background_position": "center center",
+            "background_overlay": "classic",
+            "background_overlay_color": "rgba(15,13,10,0.6)",
+            "min_height": {
+              "unit": "px",
+              "size": 480
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "css_classes": "d1-svc-col"
+          },
+          "elements": [
+            {
+              "id": "00000031",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>03 · DISCIPLINE</p>",
+                "text_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "css_classes": "d1-svc-tag"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000032",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Integrations",
+                "header_size": "h3",
+                "title_color": "#f4f0ea",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.022,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                },
+                "css_classes": "d1-svc-title"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000033",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "We integrate with intent — aligning people, platforms and processes to maximise deal value. Our War Room methodology ensures cultural cohesion and accelerated synergy capture.",
+                "text_color": "rgba(244,240,234,.82)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.6
+                },
+                "css_classes": "d1-svc-desc"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000034",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "→",
+                "align": "right",
+                "size": "md",
+                "button_text_color": "#f4f0ea",
+                "background_color": "transparent",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1"
+                },
+                "border_color": "rgba(244,240,234,.28)",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "50",
+                  "right": "50",
+                  "bottom": "50",
+                  "left": "50"
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.06,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "28",
+                  "bottom": "16",
+                  "left": "28"
+                },
+                "css_classes": "d1-svc-arrow"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000046",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#ebe6dd",
+        "column_gap": "custom",
+        "gap": {
+          "unit": "px",
+          "size": 22
+        },
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "64",
+          "bottom": "160",
+          "left": "64",
+          "isLinked": false
+        },
+        "css_classes": "d1-svc-row"
+      },
+      "elements": [
+        {
+          "id": "0000003b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_image": {
+              "url": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=1400&q=80",
+              "id": ""
+            },
+            "background_size": "cover",
+            "background_position": "center center",
+            "background_overlay": "classic",
+            "background_overlay_color": "rgba(15,13,10,0.6)",
+            "min_height": {
+              "unit": "px",
+              "size": 480
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "css_classes": "d1-svc-col"
+          },
+          "elements": [
+            {
+              "id": "00000037",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>04 · DISCIPLINE</p>",
+                "text_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "css_classes": "d1-svc-tag"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000038",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Acquisitions",
+                "header_size": "h3",
+                "title_color": "#f4f0ea",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.022,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                },
+                "css_classes": "d1-svc-title"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000039",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "We guide acquirers across financial, operational and technological readiness. Your investment thesis becomes reality through structured action and cultural command.",
+                "text_color": "rgba(244,240,234,.82)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.6
+                },
+                "css_classes": "d1-svc-desc"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000003a",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "→",
+                "align": "right",
+                "size": "md",
+                "button_text_color": "#f4f0ea",
+                "background_color": "transparent",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1"
+                },
+                "border_color": "rgba(244,240,234,.28)",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "50",
+                  "right": "50",
+                  "bottom": "50",
+                  "left": "50"
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.06,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "28",
+                  "bottom": "16",
+                  "left": "28"
+                },
+                "css_classes": "d1-svc-arrow"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00000040",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_image": {
+              "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1400&q=80",
+              "id": ""
+            },
+            "background_size": "cover",
+            "background_position": "center center",
+            "background_overlay": "classic",
+            "background_overlay_color": "rgba(15,13,10,0.6)",
+            "min_height": {
+              "unit": "px",
+              "size": 480
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "css_classes": "d1-svc-col"
+          },
+          "elements": [
+            {
+              "id": "0000003c",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>05 · DISCIPLINE</p>",
+                "text_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "css_classes": "d1-svc-tag"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000003d",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Growth",
+                "header_size": "h3",
+                "title_color": "#f4f0ea",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.022,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                },
+                "css_classes": "d1-svc-title"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000003e",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "We help organisations scale with control — refining go-to-market models, pricing and digital enablers. Growth is not an outcome; it is a system we build from the inside out.",
+                "text_color": "rgba(244,240,234,.82)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.6
+                },
+                "css_classes": "d1-svc-desc"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000003f",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "→",
+                "align": "right",
+                "size": "md",
+                "button_text_color": "#f4f0ea",
+                "background_color": "transparent",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1"
+                },
+                "border_color": "rgba(244,240,234,.28)",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "50",
+                  "right": "50",
+                  "bottom": "50",
+                  "left": "50"
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.06,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "28",
+                  "bottom": "16",
+                  "left": "28"
+                },
+                "css_classes": "d1-svc-arrow"
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00000045",
+          "elType": "column",
+          "settings": {
+            "_column_size": 33,
+            "_inline_size": null,
+            "background_background": "classic",
+            "background_image": {
+              "url": "https://images.unsplash.com/photo-1486325212027-8081e485255e?auto=format&fit=crop&w=1400&q=80",
+              "id": ""
+            },
+            "background_size": "cover",
+            "background_position": "center center",
+            "background_overlay": "classic",
+            "background_overlay_color": "rgba(15,13,10,0.6)",
+            "min_height": {
+              "unit": "px",
+              "size": 480
+            },
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            },
+            "css_classes": "d1-svc-col"
+          },
+          "elements": [
+            {
+              "id": "00000041",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>06 · DISCIPLINE</p>",
+                "text_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "css_classes": "d1-svc-tag"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000042",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Enhancements",
+                "header_size": "h3",
+                "title_color": "#f4f0ea",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.022,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                },
+                "css_classes": "d1-svc-title"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000043",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "We elevate high-performing businesses to their next maturity level — digitally, structurally and culturally. Enhancement is designing for long-term agility, innovation and stakeholder lift.",
+                "text_color": "rgba(244,240,234,.82)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.6
+                },
+                "css_classes": "d1-svc-desc"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000044",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "→",
+                "align": "right",
+                "size": "md",
+                "button_text_color": "#f4f0ea",
+                "background_color": "transparent",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1"
+                },
+                "border_color": "rgba(244,240,234,.28)",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "50",
+                  "right": "50",
+                  "bottom": "50",
+                  "left": "50"
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.06,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "28",
+                  "bottom": "16",
+                  "left": "28"
+                },
+                "css_classes": "d1-svc-arrow"
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0000004d",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#f4f0ea",
+        "padding": {
+          "unit": "px",
+          "top": "140",
+          "right": "64",
+          "bottom": "64",
+          "left": "64",
+          "isLinked": false
+        },
+        "column_gap": "wider"
+      },
+      "elements": [
+        {
+          "id": "0000004a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "00000047",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {
+                "style": "solid",
+                "color": "#1f5e57",
+                "weight": {
+                  "unit": "px",
+                  "size": 1
+                },
+                "width": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "align": "left",
+                "gap": {
+                  "unit": "px",
+                  "size": 0
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000048",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Sectors",
+                "header_size": "div",
+                "title_color": "#1f5e57",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.22,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "0",
+                  "bottom": "18",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "css_classes": "d1-eyebrow"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000049",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Where we <em>operate.</em>",
+                "header_size": "h2",
+                "title_color": "#1a1916",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 72,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.025,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "0000004c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": null,
+            "content_position": "bottom"
+          },
+          "elements": [
+            {
+              "id": "0000004b",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Cross-industry operating experience across regulated and high-growth markets. Each sector is led by partners who have served as operators or investors within it.",
+                "text_color": "#6b665d",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.7
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000056",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#f4f0ea",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "64",
+          "bottom": "80",
+          "left": "64",
+          "isLinked": false
+        },
+        "css_classes": "d1-sectors-section"
+      },
+      "elements": [
+        {
+          "id": "00000055",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "border_border": "solid",
+            "border_color": "rgba(26,25,22,.12)",
+            "border_width": {
+              "unit": "px",
+              "top": "1",
+              "right": "0",
+              "bottom": "0",
+              "left": "0"
+            }
+          },
+          "elements": [
+            {
+              "id": "0000004e",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div class=\"d1-sector-row\"><div class=\"d1-sector-tag-cell\">/01</div><div class=\"d1-sector-name-cell\">Industrial</div><div class=\"d1-sector-desc-cell\">Manufacturing groups, industrial holdings and family-owned producers navigating consolidation or generational transitions.</div><div class=\"d1-sector-cta-cell\"><span class=\"d1-sector-cta-text\">Discover</span><span class=\"d1-sector-arrow\">↗</span></div></div>",
+                "text_color": "#1a1916",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000004f",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div class=\"d1-sector-row\"><div class=\"d1-sector-tag-cell\">/02</div><div class=\"d1-sector-name-cell\">Financial</div><div class=\"d1-sector-desc-cell\">Banks, insurance and asset managers facing restructuring, integration or large-scale technology transformation programmes.</div><div class=\"d1-sector-cta-cell\"><span class=\"d1-sector-cta-text\">Discover</span><span class=\"d1-sector-arrow\">↗</span></div></div>",
+                "text_color": "#1a1916",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000050",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div class=\"d1-sector-row\"><div class=\"d1-sector-tag-cell\">/03</div><div class=\"d1-sector-name-cell\">Infrastructure</div><div class=\"d1-sector-desc-cell\">Energy, transport and real assets — capital-intensive platforms with long-cycle returns and regulatory complexity.</div><div class=\"d1-sector-cta-cell\"><span class=\"d1-sector-cta-text\">Discover</span><span class=\"d1-sector-arrow\">↗</span></div></div>",
+                "text_color": "#1a1916",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000051",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div class=\"d1-sector-row\"><div class=\"d1-sector-tag-cell\">/04</div><div class=\"d1-sector-name-cell\">Technology</div><div class=\"d1-sector-desc-cell\">B2B platforms, SaaS and deep-tech businesses scaling beyond product-market fit into operational maturity.</div><div class=\"d1-sector-cta-cell\"><span class=\"d1-sector-cta-text\">Discover</span><span class=\"d1-sector-arrow\">↗</span></div></div>",
+                "text_color": "#1a1916",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000052",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div class=\"d1-sector-row\"><div class=\"d1-sector-tag-cell\">/05</div><div class=\"d1-sector-name-cell\">Consumer</div><div class=\"d1-sector-desc-cell\">Retail, leisure and branded goods — businesses where positioning, channel mix and pricing decide the outcome.</div><div class=\"d1-sector-cta-cell\"><span class=\"d1-sector-cta-text\">Discover</span><span class=\"d1-sector-arrow\">↗</span></div></div>",
+                "text_color": "#1a1916",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000053",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<div class=\"d1-sector-row\"><div class=\"d1-sector-tag-cell\">/06</div><div class=\"d1-sector-name-cell\">Healthcare</div><div class=\"d1-sector-desc-cell\">Providers, life sciences and medtech operating between regulated reimbursement and competitive private markets.</div><div class=\"d1-sector-cta-cell\"><span class=\"d1-sector-cta-text\">Discover</span><span class=\"d1-sector-arrow\">↗</span></div></div>",
+                "text_color": "#1a1916",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 15,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000054",
+              "elType": "widget",
+              "widgetType": "button",
+              "settings": {
+                "text": "All sectors →",
+                "align": "right",
+                "size": "md",
+                "button_text_color": "#1a1916",
+                "background_color": "transparent",
+                "border_border": "solid",
+                "border_width": {
+                  "unit": "px",
+                  "top": "1",
+                  "right": "1",
+                  "bottom": "1",
+                  "left": "1"
+                },
+                "border_color": "#1a1916",
+                "border_radius": {
+                  "unit": "px",
+                  "top": "999",
+                  "right": "999",
+                  "bottom": "999",
+                  "left": "999"
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.06,
+                  "sizes": []
+                },
+                "padding": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "28",
+                  "bottom": "16",
+                  "left": "28"
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "36",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0000005b",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#26241f",
+        "padding": {
+          "unit": "px",
+          "top": "140",
+          "right": "64",
+          "bottom": "0",
+          "left": "64",
+          "isLinked": false
+        },
+        "css_classes": "d1-method-section"
+      },
+      "elements": [
+        {
+          "id": "0000005a",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "max_width": {
+              "unit": "px",
+              "size": 900
+            }
+          },
+          "elements": [
+            {
+              "id": "00000057",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {
+                "style": "solid",
+                "color": "#5a9d92",
+                "weight": {
+                  "unit": "px",
+                  "size": 1
+                },
+                "width": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "align": "left",
+                "gap": {
+                  "unit": "px",
+                  "size": 0
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000058",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Methodology",
+                "header_size": "div",
+                "title_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.22,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "0",
+                  "bottom": "18",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "css_classes": "d1-eyebrow"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000059",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Triage. Transform.<br><em>Elevate. Monitor.</em>",
+                "header_size": "h2",
+                "title_color": "#ebe3d2",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 72,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.025,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "80",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0000006c",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#26241f",
+        "padding": {
+          "unit": "px",
+          "top": "0",
+          "right": "64",
+          "bottom": "140",
+          "left": "64",
+          "isLinked": false
+        },
+        "css_classes": "d1-method-section"
+      },
+      "elements": [
+        {
+          "id": "0000005f",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "css_classes": "d1-pillar-col"
+          },
+          "elements": [
+            {
+              "id": "0000005c",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>PHASE 01 / 04</p>",
+                "text_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "48",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "css_classes": "d1-pillar-num"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000005d",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Triage",
+                "header_size": "h4",
+                "title_color": "#ebe3d2",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.022,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000005e",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Rapid, unflinching diagnosis. We surface root cause, not symptom, in the first 14 days.",
+                "text_color": "rgba(235,227,210,.72)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00000063",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "css_classes": "d1-pillar-col"
+          },
+          "elements": [
+            {
+              "id": "00000060",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>PHASE 02 / 04</p>",
+                "text_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "48",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "css_classes": "d1-pillar-num"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000061",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Transform",
+                "header_size": "h4",
+                "title_color": "#ebe3d2",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.022,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000062",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Decisive execution across capital, operations and leadership. Done with the team, not to it.",
+                "text_color": "rgba(235,227,210,.72)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00000067",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "css_classes": "d1-pillar-col"
+          },
+          "elements": [
+            {
+              "id": "00000064",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>PHASE 03 / 04</p>",
+                "text_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "48",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "css_classes": "d1-pillar-num"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000065",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Elevate",
+                "header_size": "h4",
+                "title_color": "#ebe3d2",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.022,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000066",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "We lift the operating model so the result is durable — not a one-quarter spike.",
+                "text_color": "rgba(235,227,210,.72)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "0000006b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 25,
+            "_inline_size": null,
+            "css_classes": "d1-pillar-col"
+          },
+          "elements": [
+            {
+              "id": "00000068",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "<p>PHASE 04 / 04</p>",
+                "text_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "500",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "48",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "css_classes": "d1-pillar-num"
+              },
+              "elements": []
+            },
+            {
+              "id": "00000069",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Monitor",
+                "header_size": "h4",
+                "title_color": "#ebe3d2",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 44,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.022,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000006a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "Performance discipline endures beyond the engagement. Cadence, KPIs, governance.",
+                "text_color": "rgba(235,227,210,.72)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000078",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#f4f0ea",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "64",
+          "bottom": "100",
+          "left": "64",
+          "isLinked": false
+        },
+        "css_classes": "d1-contact-section"
+      },
+      "elements": [
+        {
+          "id": "00000077",
+          "elType": "column",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "max_width": {
+              "unit": "px",
+              "size": 880
+            },
+            "align": "center"
+          },
+          "elements": [
+            {
+              "id": "0000006d",
+              "elType": "widget",
+              "widgetType": "divider",
+              "settings": {
+                "style": "solid",
+                "color": "#1f5e57",
+                "weight": {
+                  "unit": "px",
+                  "size": 1
+                },
+                "width": {
+                  "unit": "px",
+                  "size": 32
+                },
+                "align": "left",
+                "gap": {
+                  "unit": "px",
+                  "size": 0
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000006e",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Engage with us",
+                "header_size": "div",
+                "title_color": "#1f5e57",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.22,
+                  "sizes": []
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "4",
+                  "right": "0",
+                  "bottom": "18",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "css_classes": "d1-eyebrow"
+              },
+              "elements": []
+            },
+            {
+              "id": "0000006f",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "If you are at an <em>inflection point,</em><br/>we should talk.",
+                "header_size": "h2",
+                "title_color": "#1a1916",
+                "align": "center",
+                "typography_typography": "custom",
+                "typography_font_family": "Fraunces",
+                "typography_font_weight": "300",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 68,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": -0.025,
+                  "sizes": []
+                },
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.0
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "12",
+                  "right": "0",
+                  "bottom": "60",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000075",
+              "elType": "widget",
+              "widgetType": "form",
+              "settings": {
+                "form_name": "Contact",
+                "form_fields": [
+                  {
+                    "_id": "00000070",
+                    "field_type": "text",
+                    "field_label": "Full name",
+                    "field_placeholder": "Your full name",
+                    "required": "yes",
+                    "width": "50"
+                  },
+                  {
+                    "_id": "00000071",
+                    "field_type": "email",
+                    "field_label": "Email",
+                    "field_placeholder": "name@company.com",
+                    "required": "yes",
+                    "width": "50"
+                  },
+                  {
+                    "_id": "00000072",
+                    "field_type": "text",
+                    "field_label": "Company",
+                    "field_placeholder": "Company or fund",
+                    "required": "no",
+                    "width": "50"
+                  },
+                  {
+                    "_id": "00000073",
+                    "field_type": "select",
+                    "field_label": "Subject",
+                    "field_options": "Turnaround\nRestructuring\nIntegration\nAcquisition support\nGrowth\nGeneral enquiry",
+                    "required": "no",
+                    "width": "50"
+                  },
+                  {
+                    "_id": "00000074",
+                    "field_type": "textarea",
+                    "field_label": "Tell us briefly",
+                    "field_placeholder": "A line or two about your situation.",
+                    "required": "no",
+                    "width": "100",
+                    "rows": "3"
+                  }
+                ],
+                "button_text": "Send enquiry →",
+                "button_background_color": "#1a1916",
+                "button_text_color": "#f4f0ea",
+                "button_border_radius": {
+                  "unit": "px",
+                  "top": "999",
+                  "right": "999",
+                  "bottom": "999",
+                  "left": "999"
+                },
+                "button_typography_typography": "custom",
+                "button_typography_font_family": "Manrope",
+                "button_typography_font_weight": "500",
+                "button_typography_font_size": {
+                  "unit": "px",
+                  "size": 13,
+                  "sizes": []
+                },
+                "label_spacing": {
+                  "unit": "px",
+                  "size": 8
+                },
+                "field_background_color": "transparent",
+                "field_border_color": "rgba(26,25,22,.15)",
+                "field_border_bottom_border": "solid",
+                "label_color": "#6b665d",
+                "label_typography_typography": "custom",
+                "label_typography_font_family": "Manrope",
+                "label_typography_font_weight": "500",
+                "label_typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "label_typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.18,
+                  "sizes": []
+                },
+                "label_typography_text_transform": "uppercase",
+                "field_typography_typography": "custom",
+                "field_typography_font_family": "Inter",
+                "field_typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                },
+                "columns_gap": {
+                  "unit": "px",
+                  "size": 28
+                },
+                "rows_gap": {
+                  "unit": "px",
+                  "size": 28
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000076",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "By submitting your details you agree to be contacted by Manbau Consulting &amp; Advisory. We will never share your information.",
+                "text_color": "#6b665d",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.6
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "40",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00000095",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#26241f",
+        "padding": {
+          "unit": "px",
+          "top": "90",
+          "right": "64",
+          "bottom": "64",
+          "left": "64",
+          "isLinked": false
+        },
+        "border_border": "solid",
+        "border_color": "rgba(235,227,210,.14)",
+        "border_width": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "1",
+          "left": "0"
+        },
+        "css_classes": "d1-footer-section"
+      },
+      "elements": [
+        {
+          "id": "0000007b",
+          "elType": "column",
+          "settings": {
+            "_column_size": 30,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "00000079",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "<span class=\"d1-footer-brand-logo\">● MANBAU</span>",
+                "header_size": "div",
+                "title_color": "#ebe3d2",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "700",
+                "typography_text_transform": "none",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 17,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000007a",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "A European boutique advisory partner focused on critical transitions. Independent. Senior. Operator-led.",
+                "text_color": "rgba(235,227,210,.62)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.7
+                },
+                "_margin": {
+                  "unit": "px",
+                  "top": "16",
+                  "right": "0",
+                  "bottom": "0",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00000084",
+          "elType": "column",
+          "settings": {
+            "_column_size": 23,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "0000007c",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Practices",
+                "header_size": "h5",
+                "title_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.22,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000007d",
+              "elType": "widget",
+              "widgetType": "icon-list",
+              "settings": {
+                "icon_list": [
+                  {
+                    "_id": "0000007e",
+                    "text": "Turnarounds",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "0000007f",
+                    "text": "Restructuring",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000080",
+                    "text": "Integrations",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000081",
+                    "text": "Acquisitions",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000082",
+                    "text": "Growth",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000083",
+                    "text": "Enhancements",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  }
+                ],
+                "layout": "vertical",
+                "text_color": "rgba(235,227,210,.72)",
+                "icon_color": "transparent",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "space_between": {
+                  "unit": "px",
+                  "size": 14
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "0000008c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 23,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "00000085",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Firm",
+                "header_size": "h5",
+                "title_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.22,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "00000086",
+              "elType": "widget",
+              "widgetType": "icon-list",
+              "settings": {
+                "icon_list": [
+                  {
+                    "_id": "00000087",
+                    "text": "About",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000088",
+                    "text": "Methodology",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000089",
+                    "text": "Sectors",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "0000008a",
+                    "text": "Insights",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "0000008b",
+                    "text": "Careers",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  }
+                ],
+                "layout": "vertical",
+                "text_color": "rgba(235,227,210,.72)",
+                "icon_color": "transparent",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "space_between": {
+                  "unit": "px",
+                  "size": 14
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "00000094",
+          "elType": "column",
+          "settings": {
+            "_column_size": 24,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "0000008d",
+              "elType": "widget",
+              "widgetType": "heading",
+              "settings": {
+                "title": "Contact",
+                "header_size": "h5",
+                "title_color": "#5a9d92",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Manrope",
+                "typography_font_weight": "500",
+                "typography_text_transform": "uppercase",
+                "typography_font_style": "normal",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 11,
+                  "sizes": []
+                },
+                "typography_letter_spacing": {
+                  "unit": "em",
+                  "size": 0.22,
+                  "sizes": []
+                }
+              },
+              "elements": []
+            },
+            {
+              "id": "0000008e",
+              "elType": "widget",
+              "widgetType": "icon-list",
+              "settings": {
+                "icon_list": [
+                  {
+                    "_id": "0000008f",
+                    "text": "admin@manbau.com",
+                    "link": {
+                      "url": "mailto:admin@manbau.com"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000090",
+                    "text": "Madrid · ES",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000091",
+                    "text": "Lisbon · PT",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000092",
+                    "text": "Zürich · CH",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "00000093",
+                    "text": "LinkedIn ↗",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  }
+                ],
+                "layout": "vertical",
+                "text_color": "rgba(235,227,210,.72)",
+                "icon_color": "transparent",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 14,
+                  "sizes": []
+                },
+                "space_between": {
+                  "unit": "px",
+                  "size": 14
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0000009d",
+      "elType": "section",
+      "settings": {
+        "stretch_section": "section-stretched",
+        "layout": "boxed",
+        "content_width": {
+          "unit": "px",
+          "size": 1440
+        },
+        "background_background": "classic",
+        "background_color": "#26241f",
+        "padding": {
+          "unit": "px",
+          "top": "32",
+          "right": "64",
+          "bottom": "40",
+          "left": "64",
+          "isLinked": false
+        },
+        "css_classes": "d1-footer-bottom-section"
+      },
+      "elements": [
+        {
+          "id": "00000097",
+          "elType": "column",
+          "settings": {
+            "_column_size": 60,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "00000096",
+              "elType": "widget",
+              "widgetType": "text-editor",
+              "settings": {
+                "editor": "© 2026 Manbau Consulting &amp; Advisory, S.L. All rights reserved.",
+                "text_color": "rgba(235,227,210,.5)",
+                "align": "left",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "typography_font_weight": "400",
+                "typography_line_height": {
+                  "unit": "em",
+                  "size": 1.65
+                }
+              },
+              "elements": []
+            }
+          ]
+        },
+        {
+          "id": "0000009c",
+          "elType": "column",
+          "settings": {
+            "_column_size": 40,
+            "_inline_size": null,
+            "content_position": "right"
+          },
+          "elements": [
+            {
+              "id": "00000098",
+              "elType": "widget",
+              "widgetType": "icon-list",
+              "settings": {
+                "icon_list": [
+                  {
+                    "_id": "00000099",
+                    "text": "Legal notice",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "0000009a",
+                    "text": "Privacy",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  },
+                  {
+                    "_id": "0000009b",
+                    "text": "Cookies",
+                    "link": {
+                      "url": "#"
+                    },
+                    "selected_icon": {
+                      "value": "",
+                      "library": ""
+                    }
+                  }
+                ],
+                "layout": "vertical",
+                "text_color": "rgba(235,227,210,.5)",
+                "icon_color": "transparent",
+                "typography_typography": "custom",
+                "typography_font_family": "Inter",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 12,
+                  "sizes": []
+                },
+                "space_between": {
+                  "unit": "px",
+                  "size": 14
+                }
+              },
+              "elements": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "page_settings": {
+    "background_background": "classic",
+    "background_color": "#f4f0ea",
+    "margin": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": true
+    },
+    "padding": {
+      "unit": "px",
+      "top": "0",
+      "right": "0",
+      "bottom": "0",
+      "left": "0",
+      "isLinked": true
+    },
+    "custom_css": "\n@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;1,9..144,300&family=Manrope:wght@200;300;400;500;600;700;800&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');\n\nbody,.elementor-page{background:#f4f0ea!important;}\n*{box-sizing:border-box;}\n\n/* Fraunces italic accent */\nem,.d1-em{font-style:italic;color:#1f5e57;}\n\n/* ── Eyebrow ─── */\n.d1-eyebrow .elementor-heading-title{\n  font-family:'Manrope',sans-serif!important;font-weight:500!important;\n  font-size:11px!important;letter-spacing:0.22em!important;\n  text-transform:uppercase!important;color:#1f5e57!important;}\n\n/* ══ HERO ═══════════════════════════════════════════════════ */\n.d1-hero-section{overflow:hidden;padding:24px!important;}\n.d1-hero-section>.elementor-container{padding:0!important;max-width:100%!important;}\n/* Rounded frame on slides */\n.d1-hero-section .elementor-widget-slides,\n.d1-hero-section .elementor-slides-wrapper{border-radius:28px;overflow:hidden;}\n.d1-hero-section .swiper,\n.d1-hero-section .swiper-container,\n.d1-hero-section .elementor-slides-wrapper,\n.d1-hero-section .elementor-main-swiper{height:832px!important;}\n/* Content bottom-left */\n.d1-hero-section .swiper-slide{align-items:flex-end!important;}\n.d1-hero-section .elementor-slide-inner{\n  width:100%!important;padding:0 64px 56px 64px!important;\n  align-items:flex-start!important;text-align:left!important;flex-direction:column;}\n.d1-hero-section .elementor-slide-content{text-align:left!important;max-width:1180px;}\n\n/* Eyebrow in slide */\n.d1-hero-section .elementor-slide-heading .d1-ey{\n  display:block;font-family:'Manrope',sans-serif!important;\n  font-weight:500!important;font-size:11px!important;\n  letter-spacing:0.22em!important;text-transform:uppercase;\n  color:rgba(244,240,234,.8);margin-bottom:32px;line-height:1.4;}\n.d1-hero-section .elementor-slide-heading .d1-ey::before{\n  content:'';display:inline-block;width:32px;height:1px;\n  background:#5a9d92;vertical-align:middle;margin-right:14px;}\n\n/* Headline */\n.d1-hero-section .elementor-slide-heading{\n  font-family:'Fraunces',serif!important;font-weight:300!important;\n  font-size:96px!important;line-height:0.95!important;\n  letter-spacing:-0.025em!important;color:#f4f0ea!important;\n  margin:0 0 28px!important;white-space:pre-line;}\n.d1-hero-section .elementor-slide-heading em{\n  font-style:italic;color:rgba(244,240,234,.95);}\n\n/* Description */\n.d1-hero-section .elementor-slide-description{\n  font-family:'Inter',sans-serif!important;font-size:15px!important;\n  line-height:1.6!important;color:rgba(244,240,234,.9)!important;\n  max-width:340px;margin:0 0 36px!important;}\n.d1-hero-section .elementor-slide-description::before{\n  content:'';display:block;width:24px;height:1px;\n  background:rgba(244,240,234,.7);margin-bottom:16px;}\n\n/* CTA button — pill style */\n.d1-hero-section .elementor-slide-button{\n  background:#f4f0ea!important;border:0!important;\n  color:#1a1916!important;font-family:'Manrope',sans-serif!important;\n  font-weight:500!important;font-size:13px!important;\n  letter-spacing:0.06em!important;border-radius:999px!important;\n  padding:14px 28px!important;transition:background .25s!important;}\n.d1-hero-section .elementor-slide-button:hover{\n  background:#1f5e57!important;color:#f4f0ea!important;}\n\n/* Slide dots */\n.d1-hero-section .swiper-pagination{\n  bottom:32px!important;right:64px!important;\n  left:auto!important;width:auto!important;text-align:right;}\n.d1-hero-section .swiper-pagination-bullet{\n  width:8px;height:4px;border-radius:2px;\n  background:rgba(244,240,234,.35);opacity:1;margin:0 4px!important;\n  transition:width .3s,background .3s;}\n.d1-hero-section .swiper-pagination-bullet-active{\n  width:24px!important;background:rgba(244,240,234,.9)!important;}\n\n/* Overlay grad */\n.d1-hero-section .elementor-background-overlay{\n  background:\n    linear-gradient(135deg,rgba(15,13,10,.72) 0%,rgba(15,13,10,.42) 45%,rgba(15,13,10,.30) 70%,rgba(15,13,10,.65) 100%),\n    linear-gradient(180deg,rgba(15,13,10,.35) 0%,rgba(15,13,10,0) 30%,rgba(15,13,10,0) 60%,rgba(15,13,10,.55) 100%)\n    !important;opacity:1!important;}\n\n/* ══ FLOATING PILL NAV (overlay on hero section) ════════════ */\n/* Built as a separate bar section placed over hero with negative margin */\n.d1-pillnav-section{\n  position:relative;z-index:20;\n  margin-bottom:-890px!important;}\n.d1-pillnav-section>.elementor-container{\n  display:flex;justify-content:space-between;align-items:center;\n  padding:52px 52px 0!important;}\n.d1-pillnav-section .elementor-nav-menu--main .elementor-item{\n  padding:12px 22px!important;border-radius:999px!important;\n  background:rgba(244,240,234,.72)!important;\n  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);\n  border:1px solid rgba(244,240,234,.6)!important;\n  margin:0 3px!important;color:#1a1916!important;\n  font-size:13px!important;letter-spacing:0.02em!important;}\n.d1-pillnav-section .elementor-nav-menu--main .elementor-item:hover{\n  background:#1a1916!important;color:#ebe3d2!important;}\n.d1-pillnav-section .d1-contact-pill .elementor-button{\n  background:rgba(244,240,234,.72)!important;\n  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);\n  border:1px solid rgba(244,240,234,.6)!important;\n  border-radius:999px!important;color:#1a1916!important;\n  padding:13px 26px!important;font-size:13px!important;\n  letter-spacing:0.04em!important;transition:background .2s!important;}\n.d1-pillnav-section .d1-contact-pill .elementor-button:hover{\n  background:#1f5e57!important;color:#f4f0ea!important;}\n\n/* ══ INTRO / BENTO ══════════════════════════════════════════ */\n.d1-intro-section{background:#f4f0ea;}\n\n/* Stat pills */\n.d1-stat-pill{\n  background:#ebe6dd;border-radius:26px;padding:26px 28px;\n  min-height:148px;display:flex;align-items:center;gap:22px;\n  transition:background .25s;}\n.d1-stat-pill:hover{background:#e2dccf;}\n.d1-stat-pill .elementor-counter-number-wrapper{\n  font-family:'Fraunces',serif!important;font-weight:300!important;\n  font-size:52px!important;letter-spacing:-0.03em!important;color:#1a1916!important;}\n.d1-stat-pill .elementor-counter-title{\n  font-family:'Manrope',sans-serif!important;font-weight:500!important;\n  font-size:11px!important;letter-spacing:0.18em!important;\n  text-transform:uppercase!important;color:#6b665d!important;}\n\n/* Image thumb card */\n.d1-thumb-card{\n  border-radius:26px;overflow:hidden;background:#1a1916;\n  min-height:148px;position:relative;}\n.d1-thumb-card .elementor-widget-image img{\n  width:100%;height:100%;object-fit:cover;position:absolute;inset:0;\n  filter:brightness(0.7) saturate(0.85);\n  transition:transform 1.2s cubic-bezier(.2,.7,.2,1),filter .6s;}\n.d1-thumb-card:hover .elementor-widget-image img{\n  transform:scale(1.06);filter:brightness(0.8) saturate(1);}\n\n/* Editorial headline big */\n.d1-intro-headline .elementor-heading-title{\n  font-family:'Fraunces',serif!important;font-weight:300!important;\n  font-size:92px!important;line-height:0.96!important;\n  letter-spacing:-0.03em!important;color:#1a1916!important;}\n.d1-intro-headline .elementor-heading-title em{\n  font-style:italic;color:#1f5e57;}\n\n/* Aside tall image card */\n.d1-aside-col{border-radius:26px;overflow:hidden;background:#1a1916;}\n.d1-aside-col>.elementor-element-populated{min-height:100%;display:flex;flex-direction:column;}\n.d1-aside-col .elementor-background-overlay{\n  background:linear-gradient(to bottom,rgba(15,13,10,.1) 0%,rgba(15,13,10,.5) 65%,rgba(15,13,10,.85) 100%)!important;\n  opacity:1!important;}\n.d1-aside-col>.elementor-element-populated>.elementor-widget-wrap{\n  display:flex;flex-direction:column;justify-content:space-between;\n  height:100%;min-height:580px;padding:24px!important;}\n\n/* Aside CTA pill at bottom */\n.d1-aside-cta{\n  background:rgba(15,13,10,.62);backdrop-filter:blur(18px);\n  -webkit-backdrop-filter:blur(18px);\n  border:1px solid rgba(244,240,234,.16);border-radius:24px;\n  padding:18px 18px 18px 22px;}\n.d1-aside-cta .elementor-heading-title{\n  font-family:'Fraunces',serif!important;font-weight:300!important;\n  font-style:italic;font-size:22px!important;color:#f4f0ea!important;}\n.d1-aside-cta-sub{\n  font-family:'Manrope',sans-serif!important;font-weight:400!important;\n  font-size:11px!important;letter-spacing:0.16em!important;\n  text-transform:uppercase;color:rgba(244,240,234,.72)!important;}\n\n/* Stat overlay on aside */\n.d1-aside-stat{text-align:center;}\n.d1-aside-stat .elementor-counter-number-wrapper{\n  font-family:'Fraunces',serif!important;font-weight:300!important;\n  font-size:132px!important;letter-spacing:-0.04em!important;\n  color:#f4f0ea!important;line-height:1!important;}\n.d1-aside-stat .elementor-counter-title{\n  font-family:'Manrope',sans-serif!important;font-weight:500!important;\n  font-size:11px!important;letter-spacing:0.22em!important;\n  text-transform:uppercase!important;color:rgba(244,240,234,.85)!important;\n  margin-top:14px!important;}\n\n/* ══ SERVICES GRID ══════════════════════════════════════════ */\n.d1-svc-row>.elementor-container{gap:22px!important;}\n.d1-svc-row .elementor-row{gap:22px!important;}\n.d1-svc-col{\n  border-radius:22px!important;overflow:hidden;\n  cursor:pointer;background:#26241f;}\n.d1-svc-col .elementor-background-overlay{\n  background:linear-gradient(\n    to bottom,rgba(15,13,10,.05) 0%,rgba(15,13,10,.35) 45%,rgba(15,13,10,.92) 100%\n  )!important;opacity:1!important;transition:opacity .6s;}\n.d1-svc-col .elementor-column-wrap{\n  transition:transform 1.4s cubic-bezier(.2,.7,.2,1);}\n/* Actual background image grayscale */\n.d1-svc-col .elementor-background-overlay+*{filter:grayscale(75%) brightness(0.55);}\n.d1-svc-col>.elementor-element-populated>.elementor-widget-wrap{\n  display:flex!important;flex-direction:column!important;\n  justify-content:space-between!important;\n  min-height:480px;padding:28px 30px 30px!important;}\n.d1-svc-col .d1-svc-tag p{\n  font-family:'JetBrains Mono',monospace!important;font-size:12px!important;\n  letter-spacing:0.16em!important;text-transform:uppercase;\n  color:#5a9d92!important;margin:0;\n  display:inline-flex;align-items:center;gap:10px;}\n.d1-svc-col .d1-svc-tag p::before{\n  content:'';width:22px;height:1px;background:#5a9d92;display:inline-block;}\n.d1-svc-col .d1-svc-title .elementor-heading-title{\n  font-family:'Fraunces',serif!important;font-weight:300!important;\n  font-size:44px!important;letter-spacing:-0.022em!important;\n  line-height:1!important;color:#f4f0ea!important;margin:0!important;\n  transition:font-style .35s;}\n.d1-svc-col:hover .d1-svc-title .elementor-heading-title{font-style:italic;}\n.d1-svc-col .d1-svc-desc .elementor-text-editor{\n  max-height:0;overflow:hidden;opacity:0;\n  transition:max-height .55s cubic-bezier(.2,.7,.2,1),opacity .4s ease;\n  font-size:14px;line-height:1.6;color:rgba(244,240,234,.82);}\n.d1-svc-col:hover .d1-svc-desc .elementor-text-editor{max-height:220px;opacity:1;}\n.d1-svc-col .d1-svc-arrow{text-align:right;}\n.d1-svc-col .d1-svc-arrow .elementor-button{\n  width:46px!important;height:46px!important;padding:0!important;\n  border-radius:50%!important;border:1px solid rgba(244,240,234,.28)!important;\n  background:rgba(244,240,234,.12)!important;color:#f4f0ea!important;\n  display:inline-flex!important;align-items:center!important;justify-content:center!important;\n  font-size:16px!important;transition:all .3s!important;float:right;}\n.d1-svc-col:hover .d1-svc-arrow .elementor-button{\n  background:#1f5e57!important;border-color:#1f5e57!important;}\n\n/* ══ SECTORS ════════════════════════════════════════════════ */\n.d1-sectors-section{background:#f4f0ea;}\n.d1-sector-row{\n  display:flex;align-items:center;gap:32px;\n  padding:36px 64px;border-bottom:1px solid rgba(26,25,22,.12);\n  position:relative;cursor:pointer;transition:color .4s;color:#1a1916;\n  overflow:hidden;}\n.d1-sector-row::before{\n  content:'';position:absolute;left:0;right:0;top:0;bottom:0;\n  background:#1a1916;transform:scaleX(0);transform-origin:left;\n  transition:transform .5s cubic-bezier(.2,.7,.2,1);z-index:0;}\n.d1-sector-row:hover{color:#f4f0ea;}\n.d1-sector-row:hover::before{transform:scaleX(1);}\n.d1-sector-row>*{position:relative;z-index:1;}\n.d1-sector-tag-cell{\n  width:80px;font-family:'JetBrains Mono',monospace;\n  font-size:12px;letter-spacing:0.14em;color:#8a857a;transition:color .4s;}\n.d1-sector-row:hover .d1-sector-tag-cell{color:#5a9d92;}\n.d1-sector-name-cell{\n  flex:0 0 300px;font-family:'Fraunces',serif;font-weight:300;\n  font-size:46px;line-height:1;letter-spacing:-0.022em;\n  transition:font-style .45s;}\n.d1-sector-row:hover .d1-sector-name-cell{font-style:italic;}\n.d1-sector-desc-cell{\n  flex:1;font-size:15px;line-height:1.6;color:#6b665d;transition:color .4s;}\n.d1-sector-row:hover .d1-sector-desc-cell{color:rgba(244,240,234,.78);}\n.d1-sector-cta-cell{\n  display:flex;align-items:center;gap:14px;white-space:nowrap;}\n.d1-sector-cta-text{\n  font-family:'Manrope',sans-serif;font-weight:500;font-size:12px;\n  letter-spacing:0.16em;text-transform:uppercase;color:#6b665d;transition:color .4s;}\n.d1-sector-row:hover .d1-sector-cta-text{color:#f4f0ea;}\n.d1-sector-arrow{\n  width:48px;height:48px;border-radius:50%;\n  border:1px solid rgba(26,25,22,.12);display:grid;place-items:center;\n  transition:background .4s,color .4s,border-color .4s;}\n.d1-sector-row:hover .d1-sector-arrow{\n  background:#1f5e57;color:#f4f0ea;border-color:#1f5e57;}\n\n/* ══ METHODOLOGY (dark) ═════════════════════════════════════ */\n.d1-method-section{position:relative;overflow:hidden;}\n.d1-method-section::after{\n  content:'';position:absolute;right:-120px;bottom:-120px;\n  width:520px;height:520px;border-radius:50%;\n  background:radial-gradient(circle,rgba(184,137,90,.18) 0%,transparent 70%);\n  pointer-events:none;z-index:0;}\n.d1-method-section>.elementor-container{position:relative;z-index:1;}\n.d1-method-section .d1-eyebrow .elementor-heading-title{color:#5a9d92!important;}\n.d1-pillar-col>.elementor-element-populated{\n  border-top:1px solid rgba(235,227,210,.14)!important;\n  padding:48px 32px 48px!important;}\n.d1-pillar-col+.d1-pillar-col>.elementor-element-populated{\n  border-left:1px solid rgba(235,227,210,.14)!important;}\n.d1-pillar-col:first-child>.elementor-element-populated{padding-left:0!important;}\n.d1-pillar-num p{\n  font-family:'JetBrains Mono',monospace!important;font-size:12px!important;\n  letter-spacing:0.15em!important;color:#5a9d92!important;margin:0;}\n\n/* ══ CONTACT ════════════════════════════════════════════════ */\n.d1-contact-section{background:#f4f0ea;}\n.d1-contact-card{background:#ebe6dd;border-radius:32px;\n  padding:80px 80px 60px;position:relative;overflow:hidden;}\n.d1-contact-card::before{\n  content:'Contact';\n  position:absolute;left:50%;top:50%;transform:translate(-50%,-55%);\n  font-family:'Fraunces',serif;font-weight:300;font-size:240px;\n  font-style:italic;letter-spacing:-0.04em;color:#e2dccf;\n  pointer-events:none;white-space:nowrap;user-select:none;z-index:0;}\n.d1-contact-card>.elementor-row,\n.d1-contact-card>.elementor-container{position:relative;z-index:1;}\n.d1-contact-section .elementor-field-group label{\n  font-family:'Manrope',sans-serif!important;font-weight:500!important;\n  font-size:11px!important;letter-spacing:0.18em!important;\n  text-transform:uppercase!important;color:#6b665d!important;}\n.d1-contact-section .elementor-field{\n  border:0!important;border-bottom:1px solid rgba(26,25,22,.15)!important;\n  background:transparent!important;padding:10px 0!important;\n  font-family:'Inter',sans-serif!important;font-size:17px!important;\n  color:#1a1916!important;outline:none;border-radius:0!important;}\n.d1-contact-section .elementor-field:focus{border-bottom-color:#1a1916!important;}\n.d1-contact-section .elementor-button{\n  border-radius:999px!important;padding:18px 32px!important;}\n\n/* ══ FOOTER ════════════════════════════════════════════════ */\n.d1-footer-section .elementor-icon-list-icon,\n.d1-footer-bottom-section .elementor-icon-list-icon{display:none!important;}\n.d1-footer-section .elementor-icon-list-item,\n.d1-footer-bottom-section .elementor-icon-list-item{padding-left:0!important;}\n.d1-footer-section .elementor-icon-list-text a{\n  color:rgba(235,227,210,.72);text-decoration:none;\n  font-size:14px;transition:color .2s;}\n.d1-footer-section .elementor-icon-list-text a:hover{color:#ebe3d2;}\n.d1-footer-section h5.elementor-heading-title{color:#5a9d92!important;}\n.d1-footer-brand-logo{font-size:17px;letter-spacing:0.14em;color:#ebe3d2;}\n.d1-footer-bottom-section .elementor-icon-list-items{\n  display:flex;flex-direction:row;gap:20px;}\n.d1-footer-bottom-section .elementor-icon-list-text a{\n  color:rgba(235,227,210,.5);text-decoration:none;font-size:12px;}\n.d1-footer-bottom-section .elementor-icon-list-text a:hover{color:#ebe3d2;}\n"
+  }
+}
